@@ -1,0 +1,115 @@
+﻿@media(max-width:767px) { .ecol-xs-0 { width: 0%; float:left }.ecol-xs-1 { width: 1%; float:left } .ecol-xs-2 { width: 2%; float:left } .ecol-xs-3 { width: 3%; float:left } .ecol-xs-4 { width: 4%; float:left } .ecol-xs-5 { width: 5%; float:left } .ecol-xs-6 { width: 6%; float:left } .ecol-xs-7 { width: 7%; float:left } .ecol-xs-8 { width: 8%; float:left } .ecol-xs-9 { width: 9%; float:left } .ecol-xs-10 { width: 10%; float:left } .ecol-xs-11 { width: 11%; float:left } .ecol-xs-12 { width: 12%; float:left } .ecol-xs-13 { width: 13%; float:left } .ecol-xs-14 { width: 14%; float:left } .ecol-xs-15 { width: 15%; float:left } .ecol-xs-16 { width: 16%; float:left } .ecol-xs-17 { width: 17%; float:left } .ecol-xs-18 { width: 18%; float:left } .ecol-xs-19 { width: 19%; float:left } .ecol-xs-20 { width: 20%; float:left } .ecol-xs-21 { width: 21%; float:left } .ecol-xs-22 { width: 22%; float:left } .ecol-xs-23 { width: 23%; float:left } .ecol-xs-24 { width: 24%; float:left } .ecol-xs-25 { width: 25%; float:left } .ecol-xs-26 { width: 26%; float:left } .ecol-xs-27 { width: 27%; float:left } .ecol-xs-28 { width: 28%; float:left } .ecol-xs-29 { width: 29%; float:left } .ecol-xs-30 { width: 30%; float:left } .ecol-xs-31 { width: 31%; float:left } .ecol-xs-32 { width: 32%; float:left } .ecol-xs-33 { width: 33%; float:left } .ecol-xs-34 { width: 34%; float:left } .ecol-xs-35 { width: 35%; float:left } .ecol-xs-36 { width: 36%; float:left } .ecol-xs-37 { width: 37%; float:left } .ecol-xs-38 { width: 38%; float:left } .ecol-xs-39 { width: 39%; float:left } .ecol-xs-40 { width: 40%; float:left } .ecol-xs-41 { width: 41%; float:left } .ecol-xs-42 { width: 42%; float:left } .ecol-xs-43 { width: 43%; float:left } .ecol-xs-44 { width: 44%; float:left } .ecol-xs-45 { width: 45%; float:left } .ecol-xs-46 { width: 46%; float:left } .ecol-xs-47 { width: 47%; float:left } .ecol-xs-48 { width: 48%; float:left } .ecol-xs-49 { width: 49%; float:left } .ecol-xs-50 { width: 50%; float:left } .ecol-xs-51 { width: 51%; float:left } .ecol-xs-52 { width: 52%; float:left } .ecol-xs-53 { width: 53%; float:left } .ecol-xs-54 { width: 54%; float:left } .ecol-xs-55 { width: 55%; float:left } .ecol-xs-56 { width: 56%; float:left } .ecol-xs-57 { width: 57%; float:left } .ecol-xs-58 { width: 58%; float:left } .ecol-xs-59 { width: 59%; float:left } .ecol-xs-60 { width: 60%; float:left } .ecol-xs-61 { width: 61%; float:left } .ecol-xs-62 { width: 62%; float:left } .ecol-xs-63 { width: 63%; float:left } .ecol-xs-64 { width: 64%; float:left } .ecol-xs-65 { width: 65%; float:left } .ecol-xs-66 { width: 66%; float:left } .ecol-xs-67 { width: 67%; float:left } .ecol-xs-68 { width: 68%; float:left } .ecol-xs-69 { width: 69%; float:left } .ecol-xs-70 { width: 70%; float:left } .ecol-xs-71 { width: 71%; float:left } .ecol-xs-72 { width: 72%; float:left } .ecol-xs-73 { width: 73%; float:left } .ecol-xs-74 { width: 74%; float:left } .ecol-xs-75 { width: 75%; float:left } .ecol-xs-76 { width: 76%; float:left } .ecol-xs-77 { width: 77%; float:left } .ecol-xs-78 { width: 78%; float:left } .ecol-xs-79 { width: 79%; float:left } .ecol-xs-80 { width: 80%; float:left } .ecol-xs-81 { width: 81%; float:left } .ecol-xs-82 { width: 82%; float:left } .ecol-xs-83 { width: 83%; float:left } .ecol-xs-84 { width: 84%; float:left } .ecol-xs-85 { width: 85%; float:left } .ecol-xs-86 { width: 86%; float:left } .ecol-xs-87 { width: 87%; float:left } .ecol-xs-88 { width: 88%; float:left } .ecol-xs-89 { width: 89%; float:left } .ecol-xs-90 { width: 90%; float:left } .ecol-xs-91 { width: 91%; float:left } .ecol-xs-92 { width: 92%; float:left } .ecol-xs-93 { width: 93%; float:left } .ecol-xs-94 { width: 94%; float:left } .ecol-xs-95 { width: 95%; float:left } .ecol-xs-96 { width: 96%; float:left } .ecol-xs-97 { width: 97%; float:left } .ecol-xs-98 { width: 98%; float:left } .ecol-xs-99 { width: 99%; float:left } .ecol-xs-100 { width: 100%; float:left } } 
+@media(min-width:768px) and (max-width:991px) { .ecol-sm-1 { width: 1%; float:left } .ecol-sm-2 { width: 2%; float:left } .ecol-sm-3 { width: 3%; float:left } .ecol-sm-4 { width: 4%; float:left } .ecol-sm-5 { width: 5%; float:left } .ecol-sm-6 { width: 6%; float:left } .ecol-sm-7 { width: 7%; float:left } .ecol-sm-8 { width: 8%; float:left } .ecol-sm-9 { width: 9%; float:left } .ecol-sm-10 { width: 10%; float:left } .ecol-sm-11 { width: 11%; float:left } .ecol-sm-12 { width: 12%; float:left } .ecol-sm-13 { width: 13%; float:left } .ecol-sm-14 { width: 14%; float:left } .ecol-sm-15 { width: 15%; float:left } .ecol-sm-16 { width: 16%; float:left } .ecol-sm-17 { width: 17%; float:left } .ecol-sm-18 { width: 18%; float:left } .ecol-sm-19 { width: 19%; float:left } .ecol-sm-20 { width: 20%; float:left } .ecol-sm-21 { width: 21%; float:left } .ecol-sm-22 { width: 22%; float:left } .ecol-sm-23 { width: 23%; float:left } .ecol-sm-24 { width: 24%; float:left } .ecol-sm-25 { width: 25%; float:left } .ecol-sm-26 { width: 26%; float:left } .ecol-sm-27 { width: 27%; float:left } .ecol-sm-28 { width: 28%; float:left } .ecol-sm-29 { width: 29%; float:left } .ecol-sm-30 { width: 30%; float:left } .ecol-sm-31 { width: 31%; float:left } .ecol-sm-32 { width: 32%; float:left } .ecol-sm-33 { width: 33%; float:left } .ecol-sm-34 { width: 34%; float:left } .ecol-sm-35 { width: 35%; float:left } .ecol-sm-36 { width: 36%; float:left } .ecol-sm-37 { width: 37%; float:left } .ecol-sm-38 { width: 38%; float:left } .ecol-sm-39 { width: 39%; float:left } .ecol-sm-40 { width: 40%; float:left } .ecol-sm-41 { width: 41%; float:left } .ecol-sm-42 { width: 42%; float:left } .ecol-sm-43 { width: 43%; float:left } .ecol-sm-44 { width: 44%; float:left } .ecol-sm-45 { width: 45%; float:left } .ecol-sm-46 { width: 46%; float:left } .ecol-sm-47 { width: 47%; float:left } .ecol-sm-48 { width: 48%; float:left } .ecol-sm-49 { width: 49%; float:left } .ecol-sm-50 { width: 50%; float:left } .ecol-sm-51 { width: 51%; float:left } .ecol-sm-52 { width: 52%; float:left } .ecol-sm-53 { width: 53%; float:left } .ecol-sm-54 { width: 54%; float:left } .ecol-sm-55 { width: 55%; float:left } .ecol-sm-56 { width: 56%; float:left } .ecol-sm-57 { width: 57%; float:left } .ecol-sm-58 { width: 58%; float:left } .ecol-sm-59 { width: 59%; float:left } .ecol-sm-60 { width: 60%; float:left } .ecol-sm-61 { width: 61%; float:left } .ecol-sm-62 { width: 62%; float:left } .ecol-sm-63 { width: 63%; float:left } .ecol-sm-64 { width: 64%; float:left } .ecol-sm-65 { width: 65%; float:left } .ecol-sm-66 { width: 66%; float:left } .ecol-sm-67 { width: 67%; float:left } .ecol-sm-68 { width: 68%; float:left } .ecol-sm-69 { width: 69%; float:left } .ecol-sm-70 { width: 70%; float:left } .ecol-sm-71 { width: 71%; float:left } .ecol-sm-72 { width: 72%; float:left } .ecol-sm-73 { width: 73%; float:left } .ecol-sm-74 { width: 74%; float:left } .ecol-sm-75 { width: 75%; float:left } .ecol-sm-76 { width: 76%; float:left } .ecol-sm-77 { width: 77%; float:left } .ecol-sm-78 { width: 78%; float:left } .ecol-sm-79 { width: 79%; float:left } .ecol-sm-80 { width: 80%; float:left } .ecol-sm-81 { width: 81%; float:left } .ecol-sm-82 { width: 82%; float:left } .ecol-sm-83 { width: 83%; float:left } .ecol-sm-84 { width: 84%; float:left } .ecol-sm-85 { width: 85%; float:left } .ecol-sm-86 { width: 86%; float:left } .ecol-sm-87 { width: 87%; float:left } .ecol-sm-88 { width: 88%; float:left } .ecol-sm-89 { width: 89%; float:left } .ecol-sm-90 { width: 90%; float:left } .ecol-sm-91 { width: 91%; float:left } .ecol-sm-92 { width: 92%; float:left } .ecol-sm-93 { width: 93%; float:left } .ecol-sm-94 { width: 94%; float:left } .ecol-sm-95 { width: 95%; float:left } .ecol-sm-96 { width: 96%; float:left } .ecol-sm-97 { width: 97%; float:left } .ecol-sm-98 { width: 98%; float:left } .ecol-sm-99 { width: 99%; float:left } .ecol-sm-100 { width: 100%; float:left } } 
+@media(min-width:992px) and (max-width:1200px) { .ecol-md-1 { width: 1%; float:left } .ecol-md-2 { width: 2%; float:left } .ecol-md-3 { width: 3%; float:left } .ecol-md-4 { width: 4%; float:left } .ecol-md-5 { width: 5%; float:left } .ecol-md-6 { width: 6%; float:left } .ecol-md-7 { width: 7%; float:left } .ecol-md-8 { width: 8%; float:left } .ecol-md-9 { width: 9%; float:left } .ecol-md-10 { width: 10%; float:left } .ecol-md-11 { width: 11%; float:left } .ecol-md-12 { width: 12%; float:left } .ecol-md-13 { width: 13%; float:left } .ecol-md-14 { width: 14%; float:left } .ecol-md-15 { width: 15%; float:left } .ecol-md-16 { width: 16%; float:left } .ecol-md-17 { width: 17%; float:left } .ecol-md-18 { width: 18%; float:left } .ecol-md-19 { width: 19%; float:left } .ecol-md-20 { width: 20%; float:left } .ecol-md-21 { width: 21%; float:left } .ecol-md-22 { width: 22%; float:left } .ecol-md-23 { width: 23%; float:left } .ecol-md-24 { width: 24%; float:left } .ecol-md-25 { width: 25%; float:left } .ecol-md-26 { width: 26%; float:left } .ecol-md-27 { width: 27%; float:left } .ecol-md-28 { width: 28%; float:left } .ecol-md-29 { width: 29%; float:left } .ecol-md-30 { width: 30%; float:left } .ecol-md-31 { width: 31%; float:left } .ecol-md-32 { width: 32%; float:left } .ecol-md-33 { width: 33%; float:left } .ecol-md-34 { width: 34%; float:left } .ecol-md-35 { width: 35%; float:left } .ecol-md-36 { width: 36%; float:left } .ecol-md-37 { width: 37%; float:left } .ecol-md-38 { width: 38%; float:left } .ecol-md-39 { width: 39%; float:left } .ecol-md-40 { width: 40%; float:left } .ecol-md-41 { width: 41%; float:left } .ecol-md-42 { width: 42%; float:left } .ecol-md-43 { width: 43%; float:left } .ecol-md-44 { width: 44%; float:left } .ecol-md-45 { width: 45%; float:left } .ecol-md-46 { width: 46%; float:left } .ecol-md-47 { width: 47%; float:left } .ecol-md-48 { width: 48%; float:left } .ecol-md-49 { width: 49%; float:left } .ecol-md-50 { width: 50%; float:left } .ecol-md-51 { width: 51%; float:left } .ecol-md-52 { width: 52%; float:left } .ecol-md-53 { width: 53%; float:left } .ecol-md-54 { width: 54%; float:left } .ecol-md-55 { width: 55%; float:left } .ecol-md-56 { width: 56%; float:left } .ecol-md-57 { width: 57%; float:left } .ecol-md-58 { width: 58%; float:left } .ecol-md-59 { width: 59%; float:left } .ecol-md-60 { width: 60%; float:left } .ecol-md-61 { width: 61%; float:left } .ecol-md-62 { width: 62%; float:left } .ecol-md-63 { width: 63%; float:left } .ecol-md-64 { width: 64%; float:left } .ecol-md-65 { width: 65%; float:left } .ecol-md-66 { width: 66%; float:left } .ecol-md-67 { width: 67%; float:left } .ecol-md-68 { width: 68%; float:left } .ecol-md-69 { width: 69%; float:left } .ecol-md-70 { width: 70%; float:left } .ecol-md-71 { width: 71%; float:left } .ecol-md-72 { width: 72%; float:left } .ecol-md-73 { width: 73%; float:left } .ecol-md-74 { width: 74%; float:left } .ecol-md-75 { width: 75%; float:left } .ecol-md-76 { width: 76%; float:left } .ecol-md-77 { width: 77%; float:left } .ecol-md-78 { width: 78%; float:left } .ecol-md-79 { width: 79%; float:left } .ecol-md-80 { width: 80%; float:left } .ecol-md-81 { width: 81%; float:left } .ecol-md-82 { width: 82%; float:left } .ecol-md-83 { width: 83%; float:left } .ecol-md-84 { width: 84%; float:left } .ecol-md-85 { width: 85%; float:left } .ecol-md-86 { width: 86%; float:left } .ecol-md-87 { width: 87%; float:left } .ecol-md-88 { width: 88%; float:left } .ecol-md-89 { width: 89%; float:left } .ecol-md-90 { width: 90%; float:left } .ecol-md-91 { width: 91%; float:left } .ecol-md-92 { width: 92%; float:left } .ecol-md-93 { width: 93%; float:left } .ecol-md-94 { width: 94%; float:left } .ecol-md-95 { width: 95%; float:left } .ecol-md-96 { width: 96%; float:left } .ecol-md-97 { width: 97%; float:left } .ecol-md-98 { width: 98%; float:left } .ecol-md-99 { width: 99%; float:left } .ecol-md-100 { width: 100%; float:left } } 
+@media(min-width:1201px) { .ecol-lg-1 { width: 1%; float:left } .ecol-lg-2 { width: 2%; float:left } .ecol-lg-3 { width: 3%; float:left } .ecol-lg-4 { width: 4%; float:left } .ecol-lg-5 { width: 5%; float:left } .ecol-lg-6 { width: 6%; float:left } .ecol-lg-7 { width: 7%; float:left } .ecol-lg-8 { width: 8%; float:left } .ecol-lg-9 { width: 9%; float:left } .ecol-lg-10 { width: 10%; float:left } .ecol-lg-11 { width: 11%; float:left } .ecol-lg-12 { width: 12%; float:left } .ecol-lg-13 { width: 13%; float:left } .ecol-lg-14 { width: 14%; float:left } .ecol-lg-15 { width: 15%; float:left } .ecol-lg-16 { width: 16%; float:left } .ecol-lg-17 { width: 17%; float:left } .ecol-lg-18 { width: 18%; float:left } .ecol-lg-19 { width: 19%; float:left } .ecol-lg-20 { width: 20%; float:left } .ecol-lg-21 { width: 21%; float:left } .ecol-lg-22 { width: 22%; float:left } .ecol-lg-23 { width: 23%; float:left } .ecol-lg-24 { width: 24%; float:left } .ecol-lg-25 { width: 25%; float:left } .ecol-lg-26 { width: 26%; float:left } .ecol-lg-27 { width: 27%; float:left } .ecol-lg-28 { width: 28%; float:left } .ecol-lg-29 { width: 29%; float:left } .ecol-lg-30 { width: 30%; float:left } .ecol-lg-31 { width: 31%; float:left } .ecol-lg-32 { width: 32%; float:left } .ecol-lg-33 { width: 33%; float:left } .ecol-lg-34 { width: 34%; float:left } .ecol-lg-35 { width: 35%; float:left } .ecol-lg-36 { width: 36%; float:left } .ecol-lg-37 { width: 37%; float:left } .ecol-lg-38 { width: 38%; float:left } .ecol-lg-39 { width: 39%; float:left } .ecol-lg-40 { width: 40%; float:left } .ecol-lg-41 { width: 41%; float:left } .ecol-lg-42 { width: 42%; float:left } .ecol-lg-43 { width: 43%; float:left } .ecol-lg-44 { width: 44%; float:left } .ecol-lg-45 { width: 45%; float:left } .ecol-lg-46 { width: 46%; float:left } .ecol-lg-47 { width: 47%; float:left } .ecol-lg-48 { width: 48%; float:left } .ecol-lg-49 { width: 49%; float:left } .ecol-lg-50 { width: 50%; float:left } .ecol-lg-51 { width: 51%; float:left } .ecol-lg-52 { width: 52%; float:left } .ecol-lg-53 { width: 53%; float:left } .ecol-lg-54 { width: 54%; float:left } .ecol-lg-55 { width: 55%; float:left } .ecol-lg-56 { width: 56%; float:left } .ecol-lg-57 { width: 57%; float:left } .ecol-lg-58 { width: 58%; float:left } .ecol-lg-59 { width: 59%; float:left } .ecol-lg-60 { width: 60%; float:left } .ecol-lg-61 { width: 61%; float:left } .ecol-lg-62 { width: 62%; float:left } .ecol-lg-63 { width: 63%; float:left } .ecol-lg-64 { width: 64%; float:left } .ecol-lg-65 { width: 65%; float:left } .ecol-lg-66 { width: 66%; float:left } .ecol-lg-67 { width: 67%; float:left } .ecol-lg-68 { width: 68%; float:left } .ecol-lg-69 { width: 69%; float:left } .ecol-lg-70 { width: 70%; float:left } .ecol-lg-71 { width: 71%; float:left } .ecol-lg-72 { width: 72%; float:left } .ecol-lg-73 { width: 73%; float:left } .ecol-lg-74 { width: 74%; float:left } .ecol-lg-75 { width: 75%; float:left } .ecol-lg-76 { width: 76%; float:left } .ecol-lg-77 { width: 77%; float:left } .ecol-lg-78 { width: 78%; float:left } .ecol-lg-79 { width: 79%; float:left } .ecol-lg-80 { width: 80%; float:left } .ecol-lg-81 { width: 81%; float:left } .ecol-lg-82 { width: 82%; float:left } .ecol-lg-83 { width: 83%; float:left } .ecol-lg-84 { width: 84%; float:left } .ecol-lg-85 { width: 85%; float:left } .ecol-lg-86 { width: 86%; float:left } .ecol-lg-87 { width: 87%; float:left } .ecol-lg-88 { width: 88%; float:left } .ecol-lg-89 { width: 89%; float:left } .ecol-lg-90 { width: 90%; float:left } .ecol-lg-91 { width: 91%; float:left } .ecol-lg-92 { width: 92%; float:left } .ecol-lg-93 { width: 93%; float:left } .ecol-lg-94 { width: 94%; float:left } .ecol-lg-95 { width: 95%; float:left } .ecol-lg-96 { width: 96%; float:left } .ecol-lg-97 { width: 97%; float:left } .ecol-lg-98 { width: 98%; float:left } .ecol-lg-99 { width: 99%; float:left } .ecol-lg-100 { width: 100%; float:left } }
+*{
+    margin: 0;
+    padding:0;
+    font-family:Century Gothic;
+}
+
+header {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../webdevelopment.png);
+    height:100vh;
+    background-size: cover;
+    background-position: center;
+}
+ul {
+    float: right;
+    list-style-type: none;
+    margin-top: 40px;
+    margin-right: 50px;
+}
+
+ul li{
+    display:inline-block;
+    padding-left:10px;
+}
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding:5px 50px;
+    border: 1px solid #fff;
+    transition: 0.6s ease; 
+
+}
+
+ul li a:hover{
+    background-color: #fff;
+    color: #000;
+}
+
+.main{
+    max-width: 1200px;
+    margin: auto;
+}
+.title {
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+ .title h1 {
+        color: #111;
+        font-size: 70px;
+    }
+h1 span {  
+    margin: 0;
+    padding: 0;
+    animation: animate 3s linear infinite;
+}
+h1 span:nth-child(1){
+    animation-delay:0s;
+}
+h1 span:nth-child(2) {
+    animation-delay: 0.25s;
+}
+h1 span:nth-child(3) {
+    animation-delay: 0.5s;
+}
+h1 span:nth-child(4) {
+    animation-delay: 1s;
+}
+h1 span:nth-child(5) {
+    animation-delay: 1.25s;
+}
+h1 span:nth-child(6) {
+    animation-delay: 1.5s;
+}
+h1 span:nth-child(7) {
+    animation-delay: 1.75s;
+}
+h1 span:nth-child(8) {
+    animation-delay: 2s;
+}
+h1 span:nth-child(9) {
+        animation-delay: 2.25s;
+    }
+h1 span:nth-child(10) {
+        animation-delay: 2.5s;
+    }
+h1 span:nth-child(11) {
+        animation-delay: 2.75s;
+    }
+@keyframes animate {
+    0%,100% {
+        color: #fff;
+        
+        text-shadow: 0 0 10px #00b3ff,
+            0 0 20px #00b3ff, 
+            0 0 40px #00b3ff, 
+            0 0 80px #00b3ff, 
+            0 0 120px #00b3ff,
+            0 0 200px #00b3ff,
+            0 0 300px #00b3ff, 
+            0 0 400px #00b3ff, 
+            0 0 600px #00b3ff,
+            0 0 800px #00b3ff,
+            0 0 1000px #00b3ff;
+    }
+
+    5%,95% {
+        color: #111;
+        filer: blur(0px);
+        text-shadow: 0 0 10px none;
+    }
+}
