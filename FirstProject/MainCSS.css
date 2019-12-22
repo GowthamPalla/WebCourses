@@ -4,7 +4,7 @@
     font-family:Century Gothic;
 }
 
-header {
+.Total {
     background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../webdevelopment.png);
     height: 100vh;
     background-size: cover;
@@ -109,3 +109,47 @@ h1 span:nth-child(11) {
         text-shadow: 0 0 10px none;
     }
 }
+.share-button {
+    
+    background: #dfe6e9;
+    position: absolute;
+    top: 95%;
+    left: 90%;   
+    border-radius: 200px;
+    display: flex;
+    align-items:center;
+    justify-content:center;  
+     cursor: pointer;
+     transition: .3s linear;
+
+}
+    .share-button:hover 
+    {
+        transform:scale(1.1);
+    }
+    .share-button span {
+        position: absolute;
+        width: 200px;
+        height:50px;
+        text-align:center;
+        background: #2d3436;
+        color: #f1f1f1;
+        text-align: center;
+        line-height: 45px;
+        transition: .6s linear;
+        border-radius: 40px;
+    }
+    .share-button:hover span {
+        transform: translatex(-100%);
+        transition-delay: .6s linear;
+    }
+    .share-button a {
+        flex: 1;
+        font-size: 20px;
+        padding-left: 15px;
+        padding-right:5px;
+        text-align:center;
+        color: goldenrod;
+        transition: 0.6 linear;
+        
+    }
